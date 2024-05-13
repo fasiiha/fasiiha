@@ -1,13 +1,10 @@
-### Hi, Fasiha here 👋
+### Hi, I'm Fasiha 👋
 
-👨‍💻 **Full Stack Developer (MERN) | Web Designer**  
+👨‍💻 **MERN Stack Developer**  
 📚 **Education**:  
 - Bachelor of Science in Computer Science
+- Passionate about creating robust and scalable web applications that solve real-world problems
+- Dedicated to continuous learning and staying updated with the latest trends and advancements in the field of tech
 
-💼 **Experience**:  
-- Freelance Full Stack Developer
-- Freelance React JS Developer
-
-🏆 **Activities**:  
-- HackerRank Champion  
-- 30 Days LeetCode Challenges  
+🌟 **Skills**
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fasiiha&theme=dark&background=000000)](https://git.io/streak-stats)
