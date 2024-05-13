@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, Fasiha here 👋
 
-<!--
-**fasiiha/fasiiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Full Stack Developer (MERN) | Web Designer**  
+📚 **Education**:  
+- Bachelor of Science in Computer Science
 
-Here are some ideas to get you started:
+💼 **Experience**:  
+- Freelance Full Stack Developer
+- Freelance React JS Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 **Activities**:  
+- HackerRank Champion  
+- 30 Days LeetCode Challenges  
