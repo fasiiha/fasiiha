@@ -19,6 +19,6 @@
 </div>
 
 <picture decoding="async" loading="lazy">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=GriffithCoder&theme=fuji">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=fasiiha&theme=fuji">
 </picture>
 
